@@ -6,7 +6,7 @@
 
 ### Hi there 👋 
 
-I am a Fullstack Web Developper currently working as a Tech Lead at Codeboxx Digital Solutions.
+I am a Fullstack Web Developper
 
 #### GO and React enthusiast
 
