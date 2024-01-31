@@ -1,12 +1,6 @@
 <br>
-<img align="left" alt="my-version" src="https://img.shields.io/badge/version-30-green" />
+<img align="left" alt="my-version" src="https://img.shields.io/badge/version-31-green" />
 <br>
-
-<!-- BLOG-POST-LIST:START -->
-
-### Hi there 👋 
-
-I am a Fullstack Web Developper
 
 #### GO and React enthusiast
 
@@ -15,5 +9,3 @@ I am a Fullstack Web Developper
 <a href="https://www.linkedin.com/in/david-rivard-larochelle-a5ab28161/" target="_blank">
   <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<!-- BLOG-POST-LIST:END -->
