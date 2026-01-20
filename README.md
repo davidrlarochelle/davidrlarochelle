@@ -1,8 +1,6 @@
 <br>
-<img align="left" alt="my-version" src="https://img.shields.io/badge/version-31-green" />
+<img align="left" alt="my-version" src="https://img.shields.io/badge/version-33-green" />
 <br>
-
-#### GO and React enthusiast
 
 #### Links
 
