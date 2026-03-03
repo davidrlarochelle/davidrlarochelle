@@ -1,6 +1,6 @@
 ## David Larochelle
 
-Développeur full-stack spécialisé en **Go** et **TypeScript**. Je conçois des APIs performantes, des interfaces React modernes et des architectures qui scalent. Musicien et guitariste à mes heures.
+Développeur full-stack spécialisé en **Go** et **TypeScript**. Musicien et guitariste à mes heures.
 
 ---
 
