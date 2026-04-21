@@ -35,22 +35,6 @@ Développeur full-stack spécialisé en **Go** et **TypeScript**. Musicien et gu
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
----
-
-### Métriques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidrlarochelle&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&locale=fr" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrlarochelle&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=fr&langs_count=8" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=davidrlarochelle&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&locale=fr" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidrlarochelle&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff" width="95%" />
-</p>
 
 ---
 
